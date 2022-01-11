@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaasircade
+- 👋 Hi, I’m @AdeOmerAbdi
 - 👀 I’m interested in front end development, back end development and UI development
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on projects developed through Python, Java and C#.
