@@ -1,9 +1,11 @@
 
 <div id="header" align="center">
+  <h1> Hi 👋, I'm Ade Omer Abdi </h1>
+  <h4> Software Engineer from Ethiopia. </h4>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 👋 Hi, I’m @AdeOmerAbdi
+- 
 - 👀 I’m interested in front end development, back end development and UI development
 - 🌱 I’m currently learning full stack development at ALX SE (Software Engineering Program) with Holberton School's Curriculum
 - 💞️ I’m looking to collaborate on projects developed through Python, Java and C#.
