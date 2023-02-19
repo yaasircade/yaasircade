@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 
 - 👀 I’m interested in front end development, back end development and UI development
 - 🌱 I’m currently learning full stack development at ALX SE (Software Engineering Program) with Holberton School's Curriculum
 - 💞️ I’m looking to collaborate on projects developed through Python, Java and C#.
